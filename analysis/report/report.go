@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"honnef.co/go/tools/analysis/facts"
+	"github.com/AspenTeam/go-tools/analysis/facts"
 
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/ast/astutil"

@@ -13,9 +13,9 @@ import (
 	"sort"
 	"testing"
 
-	"honnef.co/go/tools/go/callgraph"
-	"honnef.co/go/tools/go/callgraph/static"
-	"honnef.co/go/tools/go/ir/irutil"
+	"github.com/AspenTeam/go-tools/go/callgraph"
+	"github.com/AspenTeam/go-tools/go/callgraph/static"
+	"github.com/AspenTeam/go-tools/go/ir/irutil"
 
 	"golang.org/x/tools/go/loader"
 )

@@ -6,11 +6,11 @@ import (
 	"os"
 
 	"golang.org/x/tools/go/analysis"
-	"honnef.co/go/tools/lintcmd"
-	"honnef.co/go/tools/simple"
-	"honnef.co/go/tools/staticcheck"
-	"honnef.co/go/tools/stylecheck"
-	"honnef.co/go/tools/unused"
+	"github.com/AspenTeam/go-tools/lintcmd"
+	"github.com/AspenTeam/go-tools/simple"
+	"github.com/AspenTeam/go-tools/staticcheck"
+	"github.com/AspenTeam/go-tools/stylecheck"
+	"github.com/AspenTeam/go-tools/unused"
 )
 
 func main() {

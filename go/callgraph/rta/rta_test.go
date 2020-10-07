@@ -22,10 +22,10 @@ import (
 	"strings"
 	"testing"
 
-	"honnef.co/go/tools/go/callgraph"
-	"honnef.co/go/tools/go/callgraph/rta"
-	"honnef.co/go/tools/go/ir"
-	"honnef.co/go/tools/go/ir/irutil"
+	"github.com/AspenTeam/go-tools/go/callgraph"
+	"github.com/AspenTeam/go-tools/go/callgraph/rta"
+	"github.com/AspenTeam/go-tools/go/ir"
+	"github.com/AspenTeam/go-tools/go/ir/irutil"
 
 	"golang.org/x/tools/go/loader"
 )

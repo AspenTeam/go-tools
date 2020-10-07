@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"honnef.co/go/tools/go/types/typeutil"
+	"github.com/AspenTeam/go-tools/go/types/typeutil"
 )
 
 func TestIntuitiveMethodSet(t *testing.T) {

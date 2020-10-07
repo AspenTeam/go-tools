@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"honnef.co/go/tools/pattern"
+	"github.com/AspenTeam/go-tools/pattern"
 )
 
 func main() {
