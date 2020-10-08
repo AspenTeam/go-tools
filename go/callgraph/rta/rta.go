@@ -50,8 +50,8 @@ import (
 	"fmt"
 	"go/types"
 
-	"honnef.co/go/tools/go/callgraph"
-	"honnef.co/go/tools/go/ir"
+	"github.com/AspenTeam/go-tools/go/callgraph"
+	"github.com/AspenTeam/go-tools/go/ir"
 
 	"golang.org/x/tools/go/types/typeutil"
 )

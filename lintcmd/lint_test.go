@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"honnef.co/go/tools/config"
-	"honnef.co/go/tools/lintcmd/runner"
+	"github.com/AspenTeam/go-tools/config"
+	"github.com/AspenTeam/go-tools/lintcmd/runner"
 
 	"golang.org/x/tools/go/packages"
 )

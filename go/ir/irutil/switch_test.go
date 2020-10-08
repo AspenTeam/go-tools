@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"honnef.co/go/tools/go/ir"
+	"github.com/AspenTeam/go-tools/go/ir"
 
 	"golang.org/x/tools/go/loader"
 )

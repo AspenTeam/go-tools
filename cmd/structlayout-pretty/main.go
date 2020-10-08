@@ -10,8 +10,8 @@ import (
 	"os"
 	"strings"
 
-	"honnef.co/go/tools/lintcmd/version"
-	st "honnef.co/go/tools/structlayout"
+	"github.com/AspenTeam/go-tools/lintcmd/version"
+	st "github.com/AspenTeam/go-tools/structlayout"
 )
 
 var (

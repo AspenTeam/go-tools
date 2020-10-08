@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"honnef.co/go/tools/internal/testenv"
+	"github.com/AspenTeam/go-tools/internal/testenv"
 )
 
 func TestMain(m *testing.M) {

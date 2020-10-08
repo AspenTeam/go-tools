@@ -4,7 +4,7 @@ import (
 	"reflect"
 
 	"golang.org/x/tools/go/analysis"
-	"honnef.co/go/tools/analysis/lint"
+	"github.com/AspenTeam/go-tools/analysis/lint"
 )
 
 func directives(pass *analysis.Pass) (interface{}, error) {

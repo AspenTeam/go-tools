@@ -11,9 +11,9 @@ import (
 	"os"
 	"time"
 
-	"honnef.co/go/tools/config"
-	"honnef.co/go/tools/internal/cache"
-	"honnef.co/go/tools/internal/go/gcimporter"
+	"github.com/AspenTeam/go-tools/config"
+	"github.com/AspenTeam/go-tools/internal/cache"
+	"github.com/AspenTeam/go-tools/internal/go/gcimporter"
 
 	"golang.org/x/tools/go/packages"
 )

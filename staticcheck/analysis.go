@@ -1,9 +1,9 @@
 package staticcheck
 
 import (
-	"honnef.co/go/tools/analysis/facts"
-	"honnef.co/go/tools/analysis/lint"
-	"honnef.co/go/tools/internal/passes/buildir"
+	"github.com/AspenTeam/go-tools/analysis/facts"
+	"github.com/AspenTeam/go-tools/analysis/lint"
+	"github.com/AspenTeam/go-tools/internal/passes/buildir"
 
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/analysis/passes/inspect"
